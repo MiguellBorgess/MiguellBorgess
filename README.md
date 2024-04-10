@@ -11,6 +11,8 @@ I'm Miguel Pereira Borges, a passionate Computer Science student at the Institut
 - 🤔 Critical thinker with problem-solving abilities
 - 🌍 Proficient in advanced English, basic Spanish
 
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiguellBorgess&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 <!--
 **MiguellBorgess/MiguellBorgess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
