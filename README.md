@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Miguel Pereira Borges, a passionate Computer Science student at the Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro (IFTM), originally from Uberlândia, Minas Gerais. My goal is to join the software development field, leveraging my academic background and enthusiasm for technology in an innovative environment.
+I'm Miguel Pereira Borges, a passionate Computer Information Systems student at UFU, originally from Uberlândia, Minas Gerais. My goal is to join the software development field, leveraging my academic background and enthusiasm for technology in an innovative environment.
 
 #### About Me:
 - 💻 Computer Information Systems student at UFU
