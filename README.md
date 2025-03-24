@@ -1,27 +1,13 @@
 ### Hi there 👋
 
-I'm Miguel Pereira Borges, a passionate Computer Information Systems student at UFU, originally from Uberlândia, Minas Gerais. My goal is to join the software development field, leveraging my academic background and enthusiasm for technology in an innovative environment.
+I'm Miguel Pereira Borges, a passionate Data and AI enthusiast currently working as a Junior Data Engineer at **NTT Data Europe & Latam**. Originally from Uberlândia, Minas Gerais, I am driven by the transformative potential of data and cutting-edge technologies in shaping the future.
 
 #### About Me:
-- 💻 Computer Information Systems student at UFU
-- 🎓 Seeking opportunities in software development
-- 🌱 Actively involved in robotics, mathematics, and logic tournaments
+- 💻 Junior Data Engineer at **NTT Data Europe & Latam**
+- 🎓 **Computer Information Systems student at UFU (Universidade Federal de Uberlândia)**
+- 🌱 Enthusiastic about Data Engineering, Artificial Intelligence, and Machine Learning
+- 🤖 Experienced in robotics, mathematics, and logic tournaments
 - 🌟 Nationally recognized for achievements in extracurricular activities
-- 🗣️ Strong communication and teamwork skills
-- 🤔 Critical thinker with problem-solving abilities
+- 🗣️ Strong communication and teamwork skills, crucial for delivering data-driven solutions
+- 🤔 Critical thinker focused on solving complex problems through data insights
 - 🌍 Proficient in advanced English, basic Spanish
-
-<!--
-**MiguellBorgess/MiguellBorgess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
