@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I'm Miguel Pereira Borges, a passionate Data and AI enthusiast currently working as a Junior Data Engineer at **NTT Data Europe & Latam**. Originally from Uberlândia, Minas Gerais, I am driven by the transformative potential of data and cutting-edge technologies in shaping the future.
+I'm Miguel Pereira Borges, a passionate computer science enthusiast. Originally from Uberlândia, Minas Gerais, I am driven by the transformative potential of data and cutting-edge technologies in shaping the future.
 
 #### About Me:
-- 💻 Junior Data Engineer at **NTT Data Europe & Latam**
 - 🎓 **Computer Information Systems student at UFU (Universidade Federal de Uberlândia)**
 - 🌱 Enthusiastic about Data Engineering, Artificial Intelligence, and Machine Learning
 - 🤖 Experienced in robotics, mathematics, and logic tournaments
