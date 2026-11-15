@@ -14,6 +14,13 @@ I'm an Information Systems student at the Federal University of Uberlândia
 Linux systems and homelabs. I also practice competitive programming in C++
 and Python, and enjoy robotics.
 
+### Experience
+
+- **Junior Data Engineer** · NTT DATA (Itaú projects) · 2025–2026
+  Data pipelines with AWS and Python, joined through the BECA talent program.
+- **STEM Educator** · ZOOM Education for Life · 2024
+  Taught educational technology and robotics.
+
 ### Projects
 
 | Project | Description |
