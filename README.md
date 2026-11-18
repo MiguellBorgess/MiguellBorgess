@@ -25,8 +25,8 @@ and Python, and enjoy robotics.
 
 | Project | Description |
 |---|---|
-| [kindle-bt-pageturner](https://github.com/MiguellBorgess/kindle-bt-pageturner) | KOReader plugin that turns Bluetooth earbuds into a page turner on jailbroken Kindles. Built by reverse engineering how the Kindle handles Bluetooth media commands. |
-| [KCALMA](https://github.com/MiguellBorgess/kcalma) | Calorie tracking web app with AI food recognition, built by a team of five for a university course. I was the project manager: ran the workflow in Jira and set up the Git flow with dev, homologation and main branches and GitHub Actions. |
+| [kindle-bt-pageturner](https://github.com/migpbor/kindle-bt-pageturner) | KOReader plugin that turns Bluetooth earbuds into a page turner on jailbroken Kindles. Built by reverse engineering how the Kindle handles Bluetooth media commands. |
+| [KCALMA](https://github.com/migpbor/kcalma) | Calorie tracking web app with AI food recognition, built by a team of five for a university course. I was the project manager: ran the workflow in Jira and set up the Git flow with dev, homologation and main branches and GitHub Actions. |
 
 ### Tech
 
